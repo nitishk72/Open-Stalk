@@ -100,7 +100,11 @@ p {
    width: 100%;
    max-width: 80px;
 }
-
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 80%;
+}
 .footer-note a{
   color: #2970FB;
   text-decoration-line: none;
